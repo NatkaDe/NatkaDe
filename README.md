@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi! I'm Natalia and I'm glad you're here!
+
+I'm a computer science student of Gdańsk University of Technology.
+
+I code mainly in Java, Python and C/C++.
+Currently learning C# and frontend frameworks as React and Angular.
+
+I'm open to learning about new technologies <3
 
 <!--
 **NatkaDe/NatkaDe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

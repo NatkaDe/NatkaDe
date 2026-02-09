@@ -1,6 +1,6 @@
 ## Hi! I'm Natalia and I'm glad you're here!
 
-I'm a computer science student of Gdańsk University of Technology.
+I'm a Computer Science student of Gdańsk University of Technology.
 
 I code mainly in Java, Python and C/C++.
 Currently learning C# and frontend frameworks as React and Angular.
